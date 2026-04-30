@@ -47,7 +47,7 @@ This project uses a fine-tuned LLM (LoRA + DPO) trained on Docker-related datase
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/docker-assistant.git
+git clone https://github.com/YahyaYusuf/First-AI-Agent.git
 cd docker-assistant
 ```
 
