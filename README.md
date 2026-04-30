@@ -36,6 +36,7 @@ This project uses a fine-tuned LLM (LoRA + DPO) trained on Docker-related datase
 * PyTorch
 * PEFT (LoRA)
 * TRL (SFT + DPO)
+* LoRA
 * Gradio
 * BitsAndBytes (8-bit quantization)
 
